@@ -7,7 +7,7 @@ This project is a RESTful API designed to power a event registration system. It 
 ## Skills and Technologies Used
 
 - **CRUD Operations**: To perform the basic operations such as creating, reading, updating, and deleting events.
-- **Databases**: Either SQL (e.g., MySQL, PostgreSQL) or NoSQL (e.g., MongoDB) to store and manage articles.
+- **Databases**: Either SQL (e.g., MySQL, PostgreSQL) or NoSQL (e.g., MongoDB) to store and manage events.
 - **RESTful API**: Server-side API that follows REST principles, enabling easy communication between the backend and clients.
 
 ## API Endpoints
